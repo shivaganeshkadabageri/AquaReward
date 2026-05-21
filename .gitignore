@@ -1,0 +1,28 @@
+# Core dependencies and build folders
+node_modules/
+target/
+.idea/
+.vscode/
+*.class
+*.jar
+*.war
+*.rar
+*.zip
+*.tar
+*.gz
+
+# System-generated files and logs
+.system_generated/
+*.log
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local configurations
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
